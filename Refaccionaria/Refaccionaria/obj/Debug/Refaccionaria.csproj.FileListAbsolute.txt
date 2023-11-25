@@ -1,0 +1,10 @@
+C:\Users\ricar\OneDrive\Escritorio\Refaccionaria\Refaccionaria\Refaccionaria\bin\Debug\Refaccionaria.exe.config
+C:\Users\ricar\OneDrive\Escritorio\Refaccionaria\Refaccionaria\Refaccionaria\bin\Debug\Refaccionaria.exe
+C:\Users\ricar\OneDrive\Escritorio\Refaccionaria\Refaccionaria\Refaccionaria\bin\Debug\Refaccionaria.pdb
+C:\Users\ricar\OneDrive\Escritorio\Refaccionaria\Refaccionaria\Refaccionaria\obj\Debug\Refaccionaria.csproj.AssemblyReference.cache
+C:\Users\ricar\OneDrive\Escritorio\Refaccionaria\Refaccionaria\Refaccionaria\obj\Debug\Refaccionaria.Properties.Resources.resources
+C:\Users\ricar\OneDrive\Escritorio\Refaccionaria\Refaccionaria\Refaccionaria\obj\Debug\Refaccionaria.csproj.GenerateResource.cache
+C:\Users\ricar\OneDrive\Escritorio\Refaccionaria\Refaccionaria\Refaccionaria\obj\Debug\Refaccionaria.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Escritorio\Refaccionaria\Refaccionaria\Refaccionaria\obj\Debug\Refaccionaria.exe
+C:\Users\ricar\OneDrive\Escritorio\Refaccionaria\Refaccionaria\Refaccionaria\obj\Debug\Refaccionaria.pdb
+C:\Users\ricar\OneDrive\Escritorio\Refaccionaria\Refaccionaria\Refaccionaria\obj\Debug\Refaccionaria.Form1.resources
